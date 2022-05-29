@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ds_phat_usb_c-rescue)(type Legacy)(uri ${KIPRJMOD}/ds_phat_usb_c-rescue.lib)(options "")(descr ""))
+)
